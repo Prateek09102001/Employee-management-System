@@ -9,7 +9,7 @@ The Employee Management System is a console-based application built in C, design
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Image  
 ![image](https://github.com/Prateek09102001/Employee-management-System/assets/127758351/f8657606-feeb-4ea0-bcc1-da7a327b662f)
